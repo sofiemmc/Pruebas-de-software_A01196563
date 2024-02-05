@@ -1,0 +1,11 @@
+P1 // Para este ejercicio hice que se leyeran todos los archivos y que se guardaran en un solo archivo. No se si eso es lo que pedían con respecto al 
+ejemplo del profesor pero así lo interprete. 
+Lo llamo de esta manera para buscar el folder: python .\computeStatistics.py "C:\Users\user\Documents\Maestria\Programa\P1"
+
+P2 // En este ejercicio guarde cada resultado en un archivo diferente y dependiendo del archivo le asigne el nombre para todos los resultados.
+Sin embargo el nombre que se solicita esta puesto.
+Lo llamo de esta manera para buscar el folder: python .\convertNumbers.py "C:\Users\user\Documents\Maestria\Programa\P2\TC#.txt"
+
+P3 // En este ejercicio guarde cada resultado en un archivo diferente y dependiendo del archivo le asigne el nombre para todos los resultados.
+Sin embargo el nombre que se solicita esta puesto.
+Lo llamo de esta manera para buscar el folder: python .\wordCount.py "C:\Users\user\Documents\Maestria\Programa\P3\TC#.txt"
