@@ -1,0 +1,2 @@
+Total Sale: $165235.37
+Time elapsed: 0.015624284744262695 seconds
