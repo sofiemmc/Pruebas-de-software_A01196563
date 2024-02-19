@@ -1,0 +1,3 @@
+Hilton,San Antonio,10
+Marriott,Austin,25
+Holiday Inn,Laredo,3
